@@ -1,0 +1,7 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ensure UserAuthApi is not ignored
+!UserAuthApi/
+!UserAuthApi/UserAuthApi.csproj
